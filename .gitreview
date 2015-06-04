@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=android_external_dnscrypt_dnscrypt-proxy.git
+defaultbranch=lp5.1
